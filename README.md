@@ -1,6 +1,6 @@
 # Hangfire
 
-Hangfire, arka planda çalışması istenen bazı işlerin yaratılmasında, yürütülmesinde ve yönetilmesinde kullanıcılara yardımcı olan bir açık kaynaklı bir kütüphanedir.
+Hangfire, arka planda çalışması istenen bazı işlerin yaratılmasında, yürütülmesinde ve yönetilmesinde kullanıcılara yardımcı olan açık kaynaklı bir kütüphanedir.
 
 
 ## Hangfire'a Neden İhtiyaç Duyulur?
